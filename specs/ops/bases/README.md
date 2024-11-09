@@ -12,6 +12,8 @@
 * [WWW:php-fpm](php.md)
 * [cache:memcached](memcached.md)
 * [RDBMS:Postgres](postgres.md)
+* [DCS:etcd](etcd.md)
+* [DCS:consul](consul.md)
 <!-- * []()
 * []()
 * []()
